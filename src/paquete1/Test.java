@@ -1,4 +1,4 @@
-/*
+/* Jose Liam Tapia Olvera
  * Practica 0.- Operaciones con numeros complejos
  * 
  * Competencia: Reafirmar los conocimientos de la POO diseñando y construyendo
@@ -40,6 +40,7 @@ rectangular y forma polar.
  Durante la clase se revisará el modelado de las clases.
 
 Viernes 24 de Agosto del 2018.	Grupo: 551
+Fecha limite: Viernes 31 de Agosto del 2018.
 
 Materia: Algoritmos y estructuras de datos.
  */
@@ -47,9 +48,10 @@ package paquete1;
 
 public class Test {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args){
 
+		Programa programa = new Programa();
+		programa.Menu();
 	}
 
 }
